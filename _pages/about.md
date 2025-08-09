@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Machine Learning Engineer at Samsung Research Bangalore, where I work on image retrieval from natural language queries. I earned my Masters in Computer Science and Engineering from the Indian Institute of Technology Bombay, advised by <a href="https://abir-de.github.io/">Prof. Abir De</a> and <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>. I completed my Bachelors in Computer Science and Engineering from the National Institute of Technology, Rourkela.
+I am currently a Machine Learning Engineer at Samsung Research Bangalore, where I work on Multi-modal Retrieval. I earned my Masters in Computer Science and Engineering from the Indian Institute of Technology Bombay, advised by <a href="https://abir-de.github.io/">Prof. Abir De</a> and <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>. I completed my Bachelors in Computer Science and Engineering from the National Institute of Technology, Rourkela.
 
 My Master’s research focused on neural architectures for <a href="https://arxiv.org/abs/2409.17687">(sub)graph retrieval</a>, aiming to design effective representation learning methods for graph-structured data.
 
