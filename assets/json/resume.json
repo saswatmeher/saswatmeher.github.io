@@ -21,7 +21,7 @@
       "endDate": "",
       "summary": "Building a Vision-Language Model for gallery image retrieval using natural language queries."
     },
-      {
+    {
       "name": "Veritas Technologies LLC",
       "position": "Associate Developer",
       "url": "https://www.veritas.com/",
@@ -40,8 +40,14 @@
       "startDate": "2022-06-01",
       "endDate": "2024-05-01",
       "score": "9.69",
-      "courses": ["Learning with Graphs", "Indexing, retrieval and learning for text and graphs", "Deep Knowledge Representation, Search, and Complex Inference", 
-      "Speech and Natural Language Processing and the Web", "Deep Learning for Natural Language Processing", "Advanced Machine Learning"]
+      "courses": [
+        "Learning with Graphs",
+        "Indexing, retrieval and learning for text and graphs",
+        "Deep Knowledge Representation, Search, and Complex Inference",
+        "Speech and Natural Language Processing and the Web",
+        "Deep Learning for Natural Language Processing",
+        "Advanced Machine Learning"
+      ]
     },
     {
       "institution": "National Institute of Technology, Rourkela",
@@ -51,8 +57,14 @@
       "startDate": "2017-06-01",
       "endDate": "2021-05-01",
       "score": "8.56",
-      "courses": ["Learning with Graphs", "Indexing, retrieval and learning for text and graphs", "Deep Knowledge Representation, Search, and Complex Inference", 
-      "Speech and Natural Language Processing and the Web", "Deep Learning for Natural Language Processing", "Advanced Machine Learning"]
+      "courses": [
+        "Learning with Graphs",
+        "Indexing, retrieval and learning for text and graphs",
+        "Deep Knowledge Representation, Search, and Complex Inference",
+        "Speech and Natural Language Processing and the Web",
+        "Deep Learning for Natural Language Processing",
+        "Advanced Machine Learning"
+      ]
     }
   ],
   "publications": [
@@ -87,22 +99,14 @@
   ],
   "skills": [
     {
-      "name":"Libraries",
+      "name": "Libraries",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "TFLite",
-        "PyG",
-        "NetworkX",
-        "Streamlit"
-      ]
+      "keywords": ["PyTorch", "TFLite", "PyG", "NetworkX", "Streamlit"]
     },
     {
       "name": "Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C", "C++", "Python"
-      ]
+      "keywords": ["C", "C++", "Python"]
     }
   ],
   "languages": [
@@ -116,7 +120,7 @@
       "fluency": "Fluent",
       "icon": ""
     },
-        {
+    {
       "language": "Odia",
       "fluency": "Native Speaker",
       "icon": ""

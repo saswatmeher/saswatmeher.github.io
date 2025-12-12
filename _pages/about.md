@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Machine Learning Engineer at Samsung Research Bangalore, where I work on Multi-modal Retrieval. I earned my Masters in Computer Science and Engineering from the Indian Institute of Technology Bombay, advised by <a href="https://abir-de.github.io/">Prof. Abir De</a> and <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>. I completed my Bachelors in Computer Science and Engineering from the National Institute of Technology, Rourkela.
+I’m a Machine Learning Engineer at Samsung Research Bangalore, building multimodal (text + image) retrieval systems. I earned my M.Tech in CSE from IIT Bombay, where I worked with <a href="https://abir-de.github.io/">Prof. Abir De</a> and <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, and a B.Tech in CSE from NIT Rourkela.
 
-My Master’s research focused on neural architectures for <a href="https://arxiv.org/abs/2409.17687">(sub)graph retrieval</a>, aiming to design effective representation learning methods for graph-structured data.
+My master’s work centered on <a href="https://arxiv.org/abs/2409.17687">neural architectures for (sub)graph retrieval</a>—basically teaching models to understand and fetch the right pieces of graph-structured data.
 
-Broadly, my research interests include representation learning for retrieval systems across diverse modalities, including text, images, and graphs.
+More broadly, I’m excited about representation learning for retrieval across modalities: text, images, and graphs.
